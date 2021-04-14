@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reacrFoto/static/css/main.af0848ec.chunk.css",
+    "main.js": "/reacrFoto/static/js/main.86ea1b8e.chunk.js",
+    "main.js.map": "/reacrFoto/static/js/main.86ea1b8e.chunk.js.map",
+    "runtime-main.js": "/reacrFoto/static/js/runtime-main.967dff7a.js",
+    "runtime-main.js.map": "/reacrFoto/static/js/runtime-main.967dff7a.js.map",
+    "static/js/2.cc79d697.chunk.js": "/reacrFoto/static/js/2.cc79d697.chunk.js",
+    "static/js/2.cc79d697.chunk.js.map": "/reacrFoto/static/js/2.cc79d697.chunk.js.map",
+    "index.html": "/reacrFoto/index.html",
+    "static/css/main.af0848ec.chunk.css.map": "/reacrFoto/static/css/main.af0848ec.chunk.css.map",
+    "static/js/2.cc79d697.chunk.js.LICENSE.txt": "/reacrFoto/static/js/2.cc79d697.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.967dff7a.js",
+    "static/js/2.cc79d697.chunk.js",
+    "static/css/main.af0848ec.chunk.css",
+    "static/js/main.86ea1b8e.chunk.js"
+  ]
+}
